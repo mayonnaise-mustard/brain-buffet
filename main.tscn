@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://bevl3ulo3rnwj"]
+
+[node name="Main" type="Node2D" unique_id=136468820]
+
+[node name="Enemies" type="Node2D" parent="." unique_id=1594556131]
+
+[node name="Projectile" type="Node2D" parent="." unique_id=937634008]
+
+[node name="PickUps" type="Node2D" parent="." unique_id=278554682]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=348881192]
